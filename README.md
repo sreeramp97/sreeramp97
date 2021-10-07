@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreeramp97
 - 👀 I’m interested in data science and neural networks
 - 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on compliant mechanisms
+- 💞️ I’m looking to collaborate design optimization of nonlinear dynamical systems
 - 📫 Reach me on sreerampk@yahoo.com
 
 <!---
